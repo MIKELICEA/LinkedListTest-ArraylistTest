@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a272289d-cacb-405d-b246-30363f552d2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../House" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListInterfaz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListInterfaz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ListInterfaz/uaslp/objetos/list/ArrayList/ArrayList$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ListInterfaz/uaslp/objetos/list/ArrayList/ArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ListInterfaz/uaslp/objetos/list/Iterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ListInterfaz/uaslp/objetos/list/LinkedList/LinkedList$LinkedListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ListInterfaz/uaslp/objetos/list/LinkedList/LinkedList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ListInterfaz/uaslp/objetos/list/LinkedList/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ListInterfaz/uaslp/objetos/list/List.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/ListInterfaz/uaslp/objetos/list/ArrayList/ArrayListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/ListInterfaz/uaslp/objetos/list/LinkedList/LinkedListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListInterfaz/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListInterfaz/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListInterfaz/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListInterfaz/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListInterfaz/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListInterfaz/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListInterfaz/src/uaslp/objetos/list/ArrayList/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListInterfaz/src/uaslp/objetos/list/ArrayList/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListInterfaz/src/uaslp/objetos/list/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListInterfaz/src/uaslp/objetos/list/Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListInterfaz/src/uaslp/objetos/list/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListInterfaz/src/uaslp/objetos/list/LinkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListInterfaz/src/uaslp/objetos/list/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListInterfaz/src/uaslp/objetos/list/List.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ListInterfaz" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Gu5eTAXTTBlY3Q6RcUvOZqWsLy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/migue/OneDrive/Documentos/5to Semestre UASLP/Tecnologia Orientada a Objetos/ListInterfaz&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.All in ListInterfaz">
+    <configuration name="All in ListInterfaz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ListInterfaz" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ListInterfaz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uaslp.objetos.list.ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uaslp.objetos.list.ArrayList" />
+      <option name="MAIN_CLASS_NAME" value="uaslp.objetos.list.ArrayList.ArrayListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListTest.givenAListWith3Elements_whenRemoveMid_thenReturnTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ListInterfaz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uaslp.objetos.list.ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uaslp.objetos.list.ArrayList" />
+      <option name="MAIN_CLASS_NAME" value="uaslp.objetos.list.ArrayList.ArrayListTest" />
+      <option name="METHOD_NAME" value="givenAListWith3Elements_whenRemoveMid_thenReturnTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListTest.givenANewList_thenSizeisZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ListInterfaz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uaslp.objetos.list.ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uaslp.objetos.list.ArrayList" />
+      <option name="MAIN_CLASS_NAME" value="uaslp.objetos.list.ArrayList.ArrayListTest" />
+      <option name="METHOD_NAME" value="givenANewList_thenSizeisZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ListInterfaz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uaslp.objetos.list.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uaslp.objetos.list.LinkedList" />
+      <option name="MAIN_CLASS_NAME" value="uaslp.objetos.list.LinkedList.LinkedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ListInterfaz" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ListInterfaz" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in ListInterfaz" />
+        <item itemvalue="JUnit.LinkedListTest" />
+        <item itemvalue="JUnit.ArrayListTest" />
+        <item itemvalue="JUnit.ArrayListTest.givenAListWith3Elements_whenRemoveMid_thenReturnTrue" />
+        <item itemvalue="JUnit.ArrayListTest.givenANewList_thenSizeisZero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a272289d-cacb-405d-b246-30363f552d2b" name="Changes" comment="" />
+      <created>1667225723964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667225723964</updated>
+      <workItem from="1667275737010" duration="335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ListInterfaz$All_in_ListInterfaz.ic" NAME="All in ListInterfaz Coverage Results" MODIFIED="1667275813358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ListInterfaz$LinkedListTest.ic" NAME="LinkedListTest Coverage Results" MODIFIED="1667272006083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>uaslp.objetos.list.LinkedList.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ListInterfaz$ArrayListTest_givenAListWith3Elements_whenRemoveMid_thenReturnTrue.ic" NAME="ArrayListTest.givenAListWith3Elements_whenRemoveMid_thenReturnTrue Coverage Results" MODIFIED="1667270796615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>uaslp.objetos.list.ArrayList.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ListInterfaz$ArrayListTest.ic" NAME="ArrayListTest Coverage Results" MODIFIED="1667270949945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>uaslp.objetos.list.ArrayList.*</FILTER>
+    </SUITE>
+  </component>
+</project>
